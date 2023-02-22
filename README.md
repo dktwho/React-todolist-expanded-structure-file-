@@ -1,3 +1,12 @@
+# Содержание
+
+Todo приложение
+
+1. Инпут для добавления.
+2. При добавлении по умолчанию свойство isComplete - false.
+3. У каждого TodoItem - кнопка remove для удаления.
+4. У каждого TodoItem - toggle кнопка completed для изменения свойства isComplete(true/false) с одновременным изменением цвета в заисимости от значения.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
